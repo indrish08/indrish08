@@ -25,3 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indrish08&show_icons=true&locale=en" alt="indrish08" /></p>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indrish08&show_icons=true&locale=en&layout=compact" alt="indrish08" /></p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/indrish08/indrish08/output/snake.svg" alt="Snake animation" />
