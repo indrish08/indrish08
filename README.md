@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indrish S</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indrish08&label=Profile%20views&color=0e75b6&style=flat" alt="indrish08" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=indrish08&label=Profile%20views&color=0e75b6&style=flat" alt="indrish08" /> </p>
 
 - 🔭 I’m currently working on **Student Management System**
 
