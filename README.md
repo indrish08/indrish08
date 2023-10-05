@@ -35,4 +35,4 @@
 
 <!-- <img src="https://raw.githubusercontent.com/indrish08/indrish08/output/snake.svg" alt="Snake animation" /> -->
 <!-- ![snake animation](https://github.com/indrish08/indrish08/blob/output/snake.svg) -->
-![Snake animation](https://github.com/indrish08/indrish08/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/indrish08/indrish08/blob/output/github-contribution-grid-snake2.svg)
