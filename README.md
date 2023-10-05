@@ -28,7 +28,8 @@
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indrish08&show_icons=true&locale=en" alt="indrish08" /></p>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indrish08&show_icons=true&locale=en&layout=compact" alt="indrish08" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indrish08&show_icons=true&locale=en&layout=compact" alt="indrish08" /></p> -->
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrish08&hide_progress=true&theme=default" alt=indrish08 />
 
 <br clear="both">
 
