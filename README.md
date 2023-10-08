@@ -7,7 +7,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=indrish08&label=Profile%20views&color=0e75b6&style=flat" alt="indrish08" /> </p>
 
-- 🔭 I’m currently working on **School Management System**
+- 🔭 I’m currently working on **VersaT-Bot**
 
 - 💬 Ask me about **Java, Python**
 
