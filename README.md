@@ -33,6 +33,6 @@
 
 <br clear="both">
 
-<img alt="github-snake" src="https://raw.githubusercontent.com/indrish08/indrish08/output/github-contribution-grid-snake-dark.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/indrish08/indrish08/output/github-contribution-grid-snake.svg" />
 <!-- <img src="https://raw.githubusercontent.com/indrish08/indrish08/output/snake.svg" alt="Snake animation" /> -->
 <!-- ![snake animation](https://github.com/indrish08/indrish08/blob/output/github-contribution-grid-snake2.svg) -->
