@@ -7,9 +7,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=indrish08&label=Profile%20views&color=0e75b6&style=flat" alt="indrish08" /> </p>
 
-- 🔭 I’m currently working on **VersaT-Bot**
+- 🔭 I’m currently working on **Warranty-Claim-System**
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java, Python, JavaScript**
 
 - 📫 How to reach me **indrishsundar@gmail.com**
 
